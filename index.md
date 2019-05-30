@@ -1,6 +1,6 @@
 ## About Me 
 
-Yuh bruh 
+Yuh bruh esketit
 
 ### Markdown
 
