@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-$$ \alpha + \beta = \gamma $$
+<http://mathurl.com/y2f3kpgg>
 
 - Bulleted
 - List
