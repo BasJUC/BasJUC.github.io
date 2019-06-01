@@ -1,7 +1,7 @@
 {% include mathjax.html %}
 ## About Me 
 
-I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother.
+I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother. today brother.
 
 $$\frac{1}{2}$$
 ### Markdown
