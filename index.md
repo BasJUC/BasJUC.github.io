@@ -1,6 +1,6 @@
 ## About Me 
 
-I am currently a 4th year Mathematical Physics student passionate about Differential Geometry, Topology, and Abstract Algebra. I am heavilty involved in the University of Waterloo's Physics Club, preparing hour long lectures on Lie Algebras, Lie Groups and Quantum Field Theory to be presented each week. Additionaly, my passion for teaching motivated me to offer tutoring services for math and physics courses. I have offered 5 or more courses per term on subjects such as Linear Albegra, Calculus, and Quantum Mechanics. 
+I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. 
 
 ### Markdown
 
@@ -9,7 +9,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<http://mathurl.com/y2f3kpgg>
 
 - Bulleted
 - List
