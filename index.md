@@ -1,6 +1,6 @@
 ## About Me 
 
-Yuh bruh esketit
+I am currently a 4th year Mathematical Physics student passionate about Differential Geometry, Topology, and Abstract Algebra. I am heavilty involved in the University of Waterloo's Physics Club, preparing hour long lectures on Lie Algebras, Lie Groups and Quantum Field Theory to be presented each week. Additionaly, my passion for teaching motivated me to offer tutoring services for math and physics courses. I have offered 5 or more courses per term on subjects such as Linear Albegra, Calculus, and Quantum Mechanics. 
 
 ### Markdown
 
