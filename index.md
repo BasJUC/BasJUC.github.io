@@ -1,3 +1,4 @@
+mathjax: true 
 {% include mathjax.html %}
 ## About Me 
 
