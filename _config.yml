@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: [Basel Jayyusi]
 description: [Mathematical Physics Student with an interest in Pure Mathematics]
 mathjax: true
+{% include mathjax.html %}
