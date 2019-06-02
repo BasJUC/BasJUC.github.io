@@ -3,8 +3,10 @@
 
 I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother. 
 
+{% raw %}
+$$a^2 +b^2 = c^2$$
+{% endraw %}
 
-$$ \frac{x}{y}= x^2 $$
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
