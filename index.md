@@ -1,6 +1,8 @@
+{% include mathjax.html %}
+
 ## About Me 
 
-I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother. today7
+I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother. t5
 
 
 $$a^2 +b^2 = c^2$$
