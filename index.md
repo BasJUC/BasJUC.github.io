@@ -1,5 +1,8 @@
-{% include mathjax.html %}
 
+<script><script 
+{% include mathjax.html %}
+> 
+  <script> 
 ## About Me 
 
 I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother. today65
