@@ -1,7 +1,7 @@
-layout: index
 theme: jekyll-theme-cayman
 title: [Basel Jayyusi]
 description: [Mathematical Physics Student with an interest in Pure Mathematics]
+layout: post
 mathjax: true
 comments: true
 categories: github jekyll
