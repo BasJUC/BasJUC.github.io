@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: [Basel Jayyusi]
-description: [Mathematical Physics Student with an interest in Pure Mathematics \\ 
-E-Mail: bjayyusi@uwaterloo.ca]
+description: [Mathematical Physics Student with an interest in Pure Mathematics]
+email: bjayyusi@uwaterloo.ca
 layout: post
 mathjax: true
 comments: true
