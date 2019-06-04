@@ -2,10 +2,7 @@
 
 ## About Me 
 
-I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussians brother.
-
-
-\\(  a^2 +b^2 = c^2  \\) 
+I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. Gaussian
 
 ### Markdown
 
