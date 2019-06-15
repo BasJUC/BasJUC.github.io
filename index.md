@@ -4,7 +4,7 @@
 
 I am a 4th year student at the University of Waterloo pursuing a Major in Mathematical Physics and a Minor in Pure Mathematics. 
 
-### Markdown
+### My graphs
 
 $$A^2 + B^2 =c^2$$
 
